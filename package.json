@@ -48,7 +48,7 @@
     "@ciscospark/plugin-flag": "^0.7.76",
     "@ciscospark/plugin-logger": "^0.7.74",
     "@ciscospark/plugin-metrics": "^0.7.74",
-    "@ciscospark/plugin-phone": "^0.7.74",
+    "@ciscospark/plugin-phone": "0.7.81",
     "@ciscospark/spark-core": "^0.7.74",
     "@ciscospark/storage-adapter-local-storage": "^0.7.74",
     "ampersand-events": "^2.0.2",
