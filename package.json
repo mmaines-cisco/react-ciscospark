@@ -40,7 +40,7 @@
   "main": "src/index.js",
   "devMain": "src/demo.js",
   "dependencies": {
-    "@ciscospark/common": "^0.7.71",
+    "@ciscospark/common": "0.7.81",
     "@ciscospark/helper-html": "^0.7.69",
     "@ciscospark/plugin-avatar": "^0.7.76",
     "@ciscospark/plugin-conversation": "^0.7.76",
